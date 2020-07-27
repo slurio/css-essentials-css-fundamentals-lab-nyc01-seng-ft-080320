@@ -17,7 +17,7 @@ img {
 nav a {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: lightgrey;
+  background: lightgrey;
 }
 
 nav {
@@ -43,4 +43,5 @@ figcaption {
 #details div {
   float: left;
   text-align: center;
+  background: red;
 }
