@@ -20,5 +20,6 @@ figcaption {
 }
 
 p#featured-property {
+  margin: auto;
   width: 800px;
 }
