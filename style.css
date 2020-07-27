@@ -14,6 +14,11 @@ img {
   margin-right: auto;
 }
 
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 figcaption {
   text-align: center;
   font-size: 15px;
