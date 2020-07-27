@@ -42,4 +42,5 @@ figcaption {
 
 #details div {
   float: left;
+  display: block;
 }
