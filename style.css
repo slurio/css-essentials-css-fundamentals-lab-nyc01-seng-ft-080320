@@ -32,6 +32,7 @@ figcaption {
 p#featured-property {
   margin: auto;
   width: 800px;
+  text-align: center;
 }
 
 #details {
